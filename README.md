@@ -73,6 +73,9 @@ The importance of precise data analysis, coupled with meticulous compliance to r
           Contact us for more information and stay tuned for more updates! 🏠📊
 
 Maria Betânia Nunes.
+<div>
+   <a href="https://www.linkedin.com/in/mariabethania" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 
  
