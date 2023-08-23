@@ -32,6 +32,14 @@ Folder 'ETL - ITBI': [Here](https://github.com/Maria-Bethania/Real_State_Market/
 
 Folder 'ETL - IPTU E TABELA FIPE': [Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/ETL%20-%20IPTU%20E%20TABELA%20FIPE).
 
+     In folder 'ETL - IPTU E TABELA FIPE', you can find a scrapbook of the ETL process.
+               
+     Detailed documentation, with annotations and screenshots.
+     
+     TThe ETL (Extract, Transform, Load) process was done using BigQuery and is shown step by step.
+
+This valuable resource provides insight into data manipulation and transformation techniques, allowing you to retrace and understand complex data preparation steps.
+
 ## Analytical Toolkit 🛠️
 
 The insights are a result of powerful analysis tools:
