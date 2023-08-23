@@ -3,7 +3,7 @@
 ## Project Overview 🏢
 
      Welcome to the São Paulo real estate market analysis project! 
-     Here we present a comprehensive exploration of the dynamic real estate landscape in the city of São Paulo.
+     We present a comprehensive exploration of the dynamic real estate landscape in São Paulo.
      Through meticulous analysis, we bring insights into the factors shaping the market in the year 2022.
 
 ## Objective 🎯
