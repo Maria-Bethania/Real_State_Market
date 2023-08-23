@@ -18,7 +18,19 @@ Fueling our analysis are data from robust sources, including:
      Foundation for Economic Research (FIPE), for real estate transactions data spanning from 2014 to 2023.
      Official Property Tax (IPTU) records and ITBI regularization data from the year 2022.
 
+You can access the databases directly [[Here](https://drive.google.com/drive/folders/1lsa3B-lTU059I3SmQmTDvgNE0dBgL4zs?usp=sharing)].
+
 Our commitment to data accuracy is upheld by utilizing structured data collection methods from public institutions, ensuring the highest standards of data quality.
+
+## Extraction, Transformation, and Loading (ETL)
+
+We performed the process of ETL of data as part of the preparation for analysis. 
+
+You will find the Colab Notebook that explores the process from its original sources, in this repository, in the following folders: 
+
+Folder 'ETL - ITBI': [Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/ETL%20-%20ITBI). 
+
+Folder 'ETL - IPTU E TABELA FIPE': [Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/ETL%20-%20IPTU%20E%20TABELA%20FIPE).
 
 ## Analytical Toolkit 🛠️
 
@@ -29,6 +41,12 @@ The insights are a result of powerful analysis tools:
     Google Colaboratory: Data pre-analysis and transformation.
     Pandas, Numpy, Matplotlib, Seaborn: Python libraries for data manipulation and visualization.
     Looker Studio and Power BI: Creation of strategic dashboards.
+
+## Visualizations 📊
+
+Explore the visualizations of the analyses conducted using Looker and Power BI. 
+
+Detailed analyses can be accessed through the following folder, in this repository: [Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/VISUALIZA%C3%87%C3%83O)
 
 ## Key Insights and Findings 📈
 
@@ -58,6 +76,11 @@ This project has illuminated crucial aspects of the São Paulo real estate lands
     💰 The impact of financial and physical factors on buyer decisions.
     🏢 Diverse property profiles and their implications for investment strategies.
     📊 Indicative trends and patterns for future opportunities.
+
+You can explore in detail our comprehensive conclusions drawn from the rigorous analysis of this project in  
+[Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/CONCLUS%C3%95ES)
+
+Insights and discoveries encapsulate the essence of data-driven exploration, providing valuable implications for decision making and future steps.
 
 
 ## Next Steps 🚀
