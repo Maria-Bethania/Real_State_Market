@@ -85,8 +85,12 @@ The insights are a result of powerful analysis tools:
 
 Explore the visualizations of the analyses conducted using Looker and Power BI. 
 
-Detailed analyses can be accessed through the following folder, in this repository: [Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/VISUALIZA%C3%87%C3%83O)
+Detailed analyses can be accessed in:
 
+- Power BI: [Here](https://app.powerbi.com/view?r=eyJrIjoiYThmMzc4ODEtYWY3Zi00NzExLThkY2ItOGI1ZjdmZWU4N2MxIiwidCI6ImJmYzhlZDQ2LTY3ZTYtNDYzMC04ZDM5LTM3ZWViZTY0NmE1NSJ9)
+     
+- Looker: [Here](https://lookerstudio.google.com/reporting/8b552f6a-35ff-4656-a7c0-267936c32a97/page/dj2YD)
+     
 ## Key Insights and Findings 📈
 
 Our rigorous analyses illuminate a spectrum of crucial insights:
@@ -117,7 +121,7 @@ This project has illuminated crucial aspects of the São Paulo real estate lands
     📊 Indicative trends and patterns for future opportunities.
 
 You can explore in detail our comprehensive conclusions drawn from the rigorous analysis of this project in  
-[Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/CONCLUS%C3%95ES)
+[Here](https://github.com/Maria-Bethania/Real_State_Market/tree/main/CONCLUSIONS%20AND%20ANALYSIS)
 
 Insights and discoveries encapsulate the essence of data-driven exploration, providing valuable implications for decision making and future steps.
 
