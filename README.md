@@ -11,6 +11,37 @@
      Unveil the intricate interplay of variables influencing the São Paulo real estate market. 
      Uncover nuanced patterns and provide a deeper understanding of market dynamics.
 
+
+## 🕵️‍♂️ Analysis using the 5 W's: Understanding the Research Problem 🕵️‍♀️
+
+### 🤷‍♀️ Who?
+
+     Target Audience: Anyone interested in understanding the dynamics of the real estate market.
+
+### 🕵️ What?
+
+     Understand the variables affecting the real estate market (including physical and financial factors).
+     Identify which attributes hold the greatest influence on buyers' decision-making.
+
+### 📅 When?
+
+     Data analysis was conducted based on 2022 data.
+     Additionally, data spanning the years from 2012 to 2022 was included.
+
+### 🌎 Where?
+
+     The analysis was carried out in the context of the real estate market in São Paulo.
+
+### 🤔 Why?
+
+     To enhance the understanding of the complex dynamics shaping the real estate market.
+
+📚 Digging Deeper
+
+If you wish to delve into the discoveries related to the 5 W's, feel free to explore the files and resources available in this repository. 
+
+Your ideas and contributions are welcome!
+
 ## Data Sources and Integrity 📊
 
 Fueling our analysis are data from robust sources, including:
